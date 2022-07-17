@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Parallax pages={4} >
-        {/*Pages of the website */}
+        {/*Pages of the wefbsite */}
         {/*factor => sets the page on different sides */}
         <ParallaxLayer
           offset={0}
